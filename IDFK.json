@@ -1,0 +1,104 @@
+{
+    "quizID": "IDFK",
+    "quizMetaData":
+    {
+        "title": "The IDFK quiz!!",
+        "imageURI": "https://www.google.com/search?q=YEET&rlz=1C1NDCM_nlNL859NL859&sxsrf=ALeKk00zkPwqzSJhL7aO2G0BIGkYDR4VjA:1589796150360&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi1q7qWlL3pAhWBGuwKHWq1DXUQ_AUoAXoECA4QAw&biw=1536&bih=754#imgrc=AAuzEybG0ItEVM"
+
+    },
+    "quizContent":
+    [
+        {   "question": "This quiz is gonna make sense!",
+            "answers": [{
+                    "answer": "True",
+                    "feedback": false
+                },
+                {
+                    "answer": "False",
+                    "feedback": true
+                },
+                {
+                    "answer": "What?",
+                    "feedback": true
+                }
+            ]
+        },
+        {   "question": "How big is the average penis of a blue whale?",
+            "answers": [{
+                    "answer": "0-0.5 meters",
+                    "feedback": false
+                },
+                {
+                    "answer": "0.5-1 meters",
+                    "feedback": false
+                },
+                {
+                    "answer": "1-1.5 meters",
+                    "feedback": false
+                },
+                {
+                    "answer": "1.5-2 meters",
+                    "feedback": false
+                },
+                {
+                    "answer": "2-2.5 meters",
+                    "feedback": false
+                },
+                {
+                    "answer": "2.5-3 meters",
+                    "feedback": true
+                }
+            ]
+        },
+        {   "question": "On a scale of 1 to 10, how stressed am I?",
+            "answers": [{
+                    "answer": "Yes",
+                    "feedback": true
+                },
+                {
+                    "answer": "I'm pretty relaxed",
+                    "feedback": false
+                },
+                {
+                    "answer": "pfft, I'm never stressed",
+                    "feedback": false
+                }
+            ]
+        },
+        {   "question": "What is love?",
+            "answers": [{
+                    "answer": "Love is when you feel emotionly attached to someone",
+                    "feedback": false
+                },
+                {
+                    "answer": "Love is just a cocktail of chemicals in your brain, nothing more",
+                    "feedback": false
+                },
+                {
+                    "answer": "BABY DON'T HURT ME!",
+                    "feedback": true
+                }
+            ]
+          },
+          {   "question": "This sentence is false",
+              "answers": [{
+                      "answer": "true",
+                      "feedback": false
+                  },
+                  {
+                      "answer": "false",
+                      "feedback": false
+                  },
+                  {
+                      "answer": "Fuck of with your paradoxes",
+                      "feedback": true
+                  }
+              ]
+            },
+            {   "question": "Life is soup,",
+                "answers": [{
+                        "answer": "I am fork",
+                        "feedback": true
+                    }
+                ]
+              }
