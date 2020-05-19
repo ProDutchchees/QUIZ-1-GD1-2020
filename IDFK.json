@@ -3,13 +3,14 @@
     "quizMetaData":
     {
         "title": "The IDFK quiz!!",
-        "imageURI": "https://www.google.com/search?q=YEET&rlz=1C1NDCM_nlNL859NL859&sxsrf=ALeKk00zkPwqzSJhL7aO2G0BIGkYDR4VjA:1589796150360&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi1q7qWlL3pAhWBGuwKHWq1DXUQ_AUoAXoECA4QAw&biw=1536&bih=754#imgrc=AAuzEybG0ItEVM"
+        "imageURI": "https://i.redd.it/761ss67qzld21.jpg"
 
     },
     "quizContent":
     [
         {   "question": "This quiz is gonna make sense!",
-            "answers": [{
+            "answers": 
+            [   {
                     "answer": "True",
                     "feedback": false
                 },
@@ -24,7 +25,8 @@
             ]
         },
         {   "question": "How big is the average penis of a blue whale?",
-            "answers": [{
+            "answers": 
+            [   {
                     "answer": "0-0.5 meters",
                     "feedback": false
                 },
@@ -51,7 +53,8 @@
             ]
         },
         {   "question": "On a scale of 1 to 10, how stressed am I?",
-            "answers": [{
+            "answers": 
+            [   {
                     "answer": "Yes",
                     "feedback": true
                 },
@@ -66,7 +69,8 @@
             ]
         },
         {   "question": "What is love?",
-            "answers": [{
+            "answers": 
+            [   {
                     "answer": "Love is when you feel emotionly attached to someone",
                     "feedback": false
                 },
@@ -79,9 +83,10 @@
                     "feedback": true
                 }
             ]
-          },
-          {   "question": "This sentence is false",
-              "answers": [{
+        },
+            {   "question": "This sentence is false",
+              "answers": 
+              [   {
                       "answer": "true",
                       "feedback": false
                   },
@@ -96,12 +101,13 @@
               ]
             },
             {   "question": "Life is soup,",
-                "answers": [{
+                "answers": 
+                [   {
                         "answer": "I am fork",
                         "feedback": true
                     }
                 ]
-              }
-              
-            ]
-        }
+            }
+
+    ]
+}
