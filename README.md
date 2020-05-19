@@ -4,7 +4,7 @@
 Link naar de online versie: [http://29219.hosts2.ma-cloud.nl/bewijzenmap/QUIZ-1-GD1-2020-master/](http://29219.hosts2.ma-cloud.nl/bewijzenmap/QUIZ-1-GD1-2020-master/)
 
 Demo video: 
-![alt text](29219.hosts2.ma-cloud.nl/bewijzenmap/QUIZ-1-GD1-2020-master/quiz%20-%20Mozilla%20Firefox%202020-05-19%2015-06-28.mp4 "demo van de quiz")
+![alt text](http://29219.hosts2.ma-cloud.nl/bewijzenmap/QUIZ-1-GD1-2020-master/quiz%20-%20Mozilla%20Firefox%202020-05-19%2015-06-28.mp4 "demo van de quiz")
 
 
 De les presentatie: [https://docs.google.com/presentation/d/1FYhRyuzpNjtS6HsgpUKtPscA1rUlNHDS74X2eaNkUeg/edit?usp=sharing](https://docs.google.com/presentation/d/1FYhRyuzpNjtS6HsgpUKtPscA1rUlNHDS74X2eaNkUeg/edit?usp=sharing)
