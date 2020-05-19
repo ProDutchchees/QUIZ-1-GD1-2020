@@ -22,7 +22,7 @@ body{
   background-color: black;
 }
 #myQuestion{
-  color: gray;
+  color: blueviolet;
 }
 #myQuestion::first-letter{
   color: magenta;
