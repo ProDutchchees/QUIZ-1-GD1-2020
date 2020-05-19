@@ -7,9 +7,7 @@ Demo video:
 ![alt text](https://media.giphy.com/media/JTP06HAqKIHplDloUi/giphy.gif "demo van de quiz")
 
 
-De les presentatie: [https://docs.google.com/presentation/d/1FYhRyuzpNjtS6HsgpUKtPscA1rUlNHDS74X2eaNkUeg/edit?usp=sharing](https://docs.google.com/presentation/d/1FYhRyuzpNjtS6HsgpUKtPscA1rUlNHDS74X2eaNkUeg/edit?usp=sharing)
 
-## doel?
 1. Het doel van deze quiz is als volgt
     * een manier om tijd te verspillen
     * er achter komen wat er door mijn hoofd gaat
